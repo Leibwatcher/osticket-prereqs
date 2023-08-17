@@ -28,10 +28,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 4
 - Item 5
 
+![Screenshot 2023-07-31 183738](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/d0218aa4-4cc3-4d07-9f79-0895fcca1ff5)
+
+
+
 <h2>Installation Steps</h2>
 
-<img src="<img src="![Screenshot 2023-07-31 184056](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/e72a02c4-7f87-443b-9660-0c917a198327)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <p>
 </p>
 <p>
