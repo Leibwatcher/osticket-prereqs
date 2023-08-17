@@ -22,11 +22,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Connect to your Virtaul Machine with Remote Desktop
+- install / Enable IIS in Windows
+- HeidiSQL_12.3.0.6589_setup.exe
+- osTicket-v1.15..8.zip
+- php-7.3.8-nts-Win32-VC15-x86.zip
+- php-ManagerForIIS_v1.5.0.msi
+- rewrite_amd64_en-US.msi
+- VC_redist.x86.exe
+- clean up
+- Change File Permissions
 
 ![Screenshot 2023-07-31 183738](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/d0218aa4-4cc3-4d07-9f79-0895fcca1ff5)
 Creating and starting up a virtual machine 
