@@ -53,6 +53,7 @@ After connecting to your Virtual Machine, we'll need to install Web Platform Ins
 ![Annotation 2023-07-31 224722](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/13f53c82-b02e-4620-863e-82830588c2f3)
 
 Click on "Turn Windows Features On Or Off" then find and enable the "Internet Infomation Services" IIS from available services. Click on + on IIS and enable "World Wide Web Services" then + on World Wide Web Services and check "CGI" then click "OK"
+
 ![Annotation 2023-07-31 225444](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/2b882dbc-d982-4574-ac41-1b32bac0e712)
 
 
