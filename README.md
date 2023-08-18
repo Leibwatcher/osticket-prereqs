@@ -34,12 +34,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Change File Permissions
 
 ![Screenshot 2023-07-31 183738](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/d0218aa4-4cc3-4d07-9f79-0895fcca1ff5)
-Creating and starting up a virtual machine 
+I Created and started up a virtual machine, the resource group can be created my selecting "create New" to make the resource group and I named it "osTicket_practice" but it can be named anything. Then I set it up to my Virtual Machine(VM) and selected the appropriate setting. 
 
 
 ![Screenshot 2023-07-31 184056](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/f8519d40-4dd1-4bb0-b06f-109b1a904efd)
+I created a username and password and then by selecting "I confirm I have an eligible Windows 10/11 liceense with multi-tenant hosting rights" then review+create to proceed. 
 
 
+![Screenshot 2023-07-30 095720](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/f26aa11b-4764-4d59-8e36-43be7a869ed8)
+To get inside of our Vitrual mchine(VM), We'll need to connect our virtual machine(VM) with Remote Desktop by using the VM's public Ip address. Going to start search "Remote Desktop Connection" and copy the Public IP Address and paste it in computer in Remote Desktop Connections and and click on connect. 
 
 <h2>Installation Steps</h2>
 
