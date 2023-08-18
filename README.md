@@ -33,8 +33,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - clean up
 - Change File Permissions
 
-![Screenshot 2023-07-31 183738](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/d0218aa4-4cc3-4d07-9f79-0895fcca1ff5)
 I Created and started up a virtual machine, the resource group can be created my selecting "create New" to make the resource group and I named it "osTicket_practice" but it can be named anything. Then I set it up to my Virtual Machine(VM) and selected the appropriate setting. 
+
+![Screenshot 2023-07-31 183738](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/d0218aa4-4cc3-4d07-9f79-0895fcca1ff5)
+
 
 
 ![Screenshot 2023-07-31 184056](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/f8519d40-4dd1-4bb0-b06f-109b1a904efd)
