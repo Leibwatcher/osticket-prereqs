@@ -33,6 +33,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - clean up
 - Change File Permissions
 
+<h2>Installation Steps</h2>
+
 I Created and started up a virtual machine, the resource group can be created my selecting "create New" to make the resource group and I named it "osTicket_practice" but it can be named anything. Then I set it up to my Virtual Machine(VM) and selected the appropriate setting. 
 
 ![Screenshot 2023-07-31 183738](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/d0218aa4-4cc3-4d07-9f79-0895fcca1ff5)
@@ -46,7 +48,12 @@ To get inside of our Vitrual mchine(VM), We'll need to connect our virtual machi
 
 ![Screenshot 2023-07-30 095720](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/f26aa11b-4764-4d59-8e36-43be7a869ed8)
 
-<h2>Installation Steps</h2>
+
+After connecting to your Virtual Machine, we'll need to install Web Platform Installer. So head to start and search for Control Panel.....under program select Uninstall a Program.
+![Annotation 2023-07-31 224722](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/13f53c82-b02e-4620-863e-82830588c2f3)
+
+Click on "Turn Windows Features On Or Off" then find and enable the "Internet Infomation Services" IIS from available services. Click on + on IIS and enable "World Wide Web Services" then + on World Wide Web Services and check "CGI" then click "OK"
+![Annotation 2023-07-31 225444](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/2b882dbc-d982-4574-ac41-1b32bac0e712)
 
 
 <p>
@@ -57,20 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <p>
 <img src="https://![image](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/f75b6946-e8b1-499d-90ee-4fdfe7bb61a2)
 " height="80%" width="80%" alt="Disk Sanitization Steps"/>
