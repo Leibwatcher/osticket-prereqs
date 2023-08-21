@@ -63,6 +63,27 @@ Next, getting PHP manger file for istall a IIS setup wizard. Going through the s
 After the PHP manger is in stalled, next is to install the "ISS URL Rewrite Module" Same thing click next and keep all defualt settings
 ![Annotation 2023-07-31 230649](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/c7bc0d4d-d33a-45df-b4f2-168358e9b458)
 
+Create a new file for PHP in the C: drive. "C:\PHP" Then I installed PHP 7.3.8(php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the file into the C:\PHP folder.
+
+![Annotation 2023-07-31 230757](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/bae0b199-15bd-42c3-b646-19b3911928c5)
+
+![Screenshot 2023-07-31 190916](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/2821a247-220d-471a-a9a5-c00bba47c189)
+
+Once VC_redist.x86.exe, then I install MySQL 5.5.62(mysql-5.5.62-win32.msi) right away. I didnt do anything special I clicked on "Typical Setup" next "Launch Configuration Wizard(after install)
+"Standard Configuration" then I set my password.
+
+![Annotation 2023-07-31 231140](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/6225fb84-f5f2-400d-9ea8-c3eb3025a44a)
+
+![Screenshot 2023-07-31 191316](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/5c0c93c2-16b4-4311-9793-4ce2d7ac60de)
+
+Open "Internet Information Service(IIS)" as Administrator
+![Screenshot 2023-07-31 191558](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/70aa8938-372b-44e2-90b5-5e2f4666a431)
+
+I register PHP within the IIS and then restarted IIS by clicking reload, or stop and start.
+
+![Screenshot 2023-07-31 191703](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/5dbeac36-9f17-4edb-bb5c-1136ec592e8d)
+
+
 <p>
 </p>
 <p>
