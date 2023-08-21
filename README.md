@@ -65,7 +65,6 @@ After the PHP manger is in stalled, next is to install the "ISS URL Rewrite Modu
 
 Create a new file for PHP in the C: drive. "C:\PHP" Then I installed PHP 7.3.8(php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the file into the C:\PHP folder.
 
-![Annotation 2023-07-31 230757](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/bae0b199-15bd-42c3-b646-19b3911928c5)
 
 ![Screenshot 2023-07-31 190916](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/2821a247-220d-471a-a9a5-c00bba47c189)
 
