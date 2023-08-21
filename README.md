@@ -96,7 +96,8 @@ Reload IIS! To the left click on "Browse *:80" Click on "Sites" then "Default" a
 Refresh and see the the red X's change to grean check marks.
 ![Screenshot 2023-07-31 192158](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/2e694011-6244-49a1-8111-2fd789f4c994)
 
-![Screenshot 2023-07-31 192158](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/11811159-29b8-41cd-9121-0654bf84e58a)
+![Screenshot 2023-07-31 192850](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/f5503229-9830-4a93-9c64-433c0884bf75)
+
 
 <p>
 </p>
