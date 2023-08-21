@@ -60,6 +60,9 @@ Next, getting PHP manger file for istall a IIS setup wizard. Going through the s
 
 ![Annotation 2023-07-31 230606](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/9d4268a6-54dc-4a7a-adc1-fb1757a4a05c)
 
+After the PHP manger is in stalled, next is to install the "ISS URL Rewrite Module" Same thing click next and keep all defualt settings
+![Annotation 2023-07-31 230649](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/c7bc0d4d-d33a-45df-b4f2-168358e9b458)
+
 <p>
 </p>
 <p>
