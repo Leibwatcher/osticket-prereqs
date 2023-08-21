@@ -81,6 +81,16 @@ I register PHP within the IIS and then restarted IIS by clicking reload, or stop
 
 ![Screenshot 2023-07-31 191703](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/5dbeac36-9f17-4edb-bb5c-1136ec592e8d)
 
+This is the time we can install "OsTicket" after OsTickv1.15.8 is installed, go and exctract and copy "upload" folder into c:\inetpub\wwwroot. While you're within the folder c:\inetpub\wwwroot, then rename the "upload" folder to "osTicket".
+
+![Screenshot 2023-07-31 192024](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/a52d6e1d-51c7-45ba-8d65-bcad67f821ff)
+
+![Screenshot 2023-07-31 192519](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/d15da144-899c-438b-b663-5d4147336e7b)
+
+
+Reload IIS! To the left click on "Browse *:80" Click on "Sites" then "Default" and finally "osticket"
+
+![Screenshot 2023-07-31 192305](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/17abdfae-c933-4440-8d68-2ff262118ee6)
 
 <p>
 </p>
