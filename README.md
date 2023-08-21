@@ -56,11 +56,13 @@ Click on "Turn Windows Features On Or Off" then find and enable the "Internet In
 
 ![Annotation 2023-07-31 225444](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/2b882dbc-d982-4574-ac41-1b32bac0e712)
 
+Next, getting PHP manger file for istall a IIS setup wizard. Going through the setup, there is no need to change anything just keep all default settings and contuinue with "next" and than "install" 
+![Annotation 2023-07-31 230606](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/9d4268a6-54dc-4a7a-adc1-fb1757a4a05c)
 
 <p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
