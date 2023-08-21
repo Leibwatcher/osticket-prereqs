@@ -88,9 +88,15 @@ This is the time we can install "OsTicket" after OsTickv1.15.8 is installed, go 
 ![Screenshot 2023-07-31 192519](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/d15da144-899c-438b-b663-5d4147336e7b)
 
 
-Reload IIS! To the left click on "Browse *:80" Click on "Sites" then "Default" and finally "osticket"
+Reload IIS! To the left click on "Browse *:80" Click on "Sites" then "Default" and finally "osticket" Then in the PHP you can see some extensions are enabled and some are not. We have to enable 3 extensions Click on to enable "php_imap.dll" "php_intl.dll" and "php_opcache.dll"
+
 
 ![Screenshot 2023-07-31 192305](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/17abdfae-c933-4440-8d68-2ff262118ee6)
+
+Refresh and see the the red X's change to grean check marks.
+![Screenshot 2023-07-31 192158](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/2e694011-6244-49a1-8111-2fd789f4c994)
+
+![Screenshot 2023-07-31 192158](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/11811159-29b8-41cd-9121-0654bf84e58a)
 
 <p>
 </p>
