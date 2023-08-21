@@ -65,7 +65,6 @@ After the PHP manger is in stalled, next is to install the "ISS URL Rewrite Modu
 
 Create a new file for PHP in the C: drive. "C:\PHP" Then I installed PHP 7.3.8(php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the file into the C:\PHP folder.
 
-
 ![Screenshot 2023-07-31 190916](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/2821a247-220d-471a-a9a5-c00bba47c189)
 
 Once VC_redist.x86.exe, then I install MySQL 5.5.62(mysql-5.5.62-win32.msi) right away. I didnt do anything special I clicked on "Typical Setup" next "Launch Configuration Wizard(after install)
