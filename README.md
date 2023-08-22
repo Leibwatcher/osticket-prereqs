@@ -98,6 +98,33 @@ Refresh and see the the red X's change to grean check marks.
 
 ![Screenshot 2023-07-31 192850](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/f5503229-9830-4a93-9c64-433c0884bf75)
 
+From the file C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename to C:\inetpub\wwwroot\osTicket\include\ost-config.php
+![Screenshot 2023-07-31 192620](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/90012561-acba-4792-a43e-bddb0f21e295)
+
+I went to properties on the PHP file properties. Then I clicked the Security tab, Systems, and then Advanced tab. From there a "block Inheritance" window will appear. Clicking on "Remove all inherited permissions from this object. I enter "Everyone" in the object name box. Check name then ok. Give everyone "Full control" and click ok.
+
+![Screenshot 2023-07-31 192803](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/676b8f97-512b-40f0-8058-04ccd9ae867c)
+
+Now we can return to the browser windows with osTicket and clcik "Continue" and you'll see a form to be completed for your account.
+![Screenshot 2023-07-31 193020](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/a2e7405e-9bb7-49c7-b2f1-54c39bde35de)
+
+
+The next step after completing the form on osTicket. We can start downloading "HeidiSQL" Click on "I agree" and continue through the setup. 
+![Annotation 2023-07-31 233407](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/33a10d88-150c-4ffe-8dd3-f21f6da5cca2)
+
+This is where you'll create an user name and password for the account for your osticketing system.  Clcik on new on the bottom left and open, then right-click on "unnamed" click on "create new" and "database"
+
+![Annotation 2023-07-31 233722](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/45e78c6d-bd28-4711-83d5-eb885430ba58)
+
+Then after creating the database, appy the info you created into "MySQL" then click "Install now". You should see this screen hopefully no error messages.
+![Annotation 2023-07-31 234024](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/7487e107-bccb-47d1-8677-89f9c3fb7334)
+
+![Annotation 2023-08-06 173122](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/aefb489a-e4b8-4f6f-81dd-d0914e3f21f7)
+
+
+http://localhost/osTicket/scp/login.php appy this to your URL and i'll take you a support center. Here you'll "Open A New Ticket" and
+
+![Screenshot 2023-08-06 141840](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/da7c6e0f-549f-4a97-ae4c-3b7847a87bf1)
 
 <p>
 </p>
@@ -107,20 +134,6 @@ Refresh and see the the red X's change to grean check marks.
 <br />
 
 
-
-<p>
-<img src="https://![image](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/f75b6946-e8b1-499d-90ee-4fdfe7bb61a2)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
