@@ -122,10 +122,16 @@ Then after creating the database, appy the info you created into "MySQL" then cl
 ![Annotation 2023-08-06 173122](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/aefb489a-e4b8-4f6f-81dd-d0914e3f21f7)
 
 
-http://localhost/osTicket/scp/login.php appy this to your URL and i'll take you a support center. Here you'll "Open A New Ticket" and
+http://localhost/osTicket/scp/login.php appy this to your URL and i'll take you a support center. Here you'll "Open A New Ticket" and "Check Ticket Status"
 
 ![Screenshot 2023-08-06 141840](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/da7c6e0f-549f-4a97-ae4c-3b7847a87bf1)
 
+Clean up: First, delete "C:\inetpub\wwwroot\osTicket\setup". Secondly, back to "C:\inetpub\wwwroot\osTicket\include\ost-config.php" set Permissions to "READ" only and lastly long into osTicket Admin Panel.
+![Annotation 2023-07-31 234113](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/8298addd-837e-4a09-82c0-e22e55570f29)
+
+![Screenshot 2023-07-31 192620](https://github.com/Leibwatcher/osticket-prereqs/assets/137578446/b518a08e-d68b-4ef6-8d79-65b137f78579)
+
+           !That all the steps to set up osTicket and Congratulations on achievment completion of this lab!
 <p>
 </p>
 <p>
@@ -133,7 +139,5 @@ http://localhost/osTicket/scp/login.php appy this to your URL and i'll take you 
 </p>
 <br />
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
